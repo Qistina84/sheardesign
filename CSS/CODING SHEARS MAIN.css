@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:lightpink}
+
+#Logo          {float:left; margin-bottom: 20px;}
+#Icon          {float:right;}
+#navigation    {clear:both;
+	           border-top:solid black 1px;
+	           border-bottom:solid black 1px;     
+	           word-spacing: 35px;
+	           margin-bottom:20px;
+	           padding:10px}
+
+
+#Tajuk {float:left; width:568px;}
+#Tajuk h1 {color:rebeccapurple;font-family:Serif;border-bottom:solid black 2px;width:900px}
+#Tajuk1 H1 {colour:rebeccapurple;font-family:Serif;border-bottom:solid black 2PX; width:900px}
+
+#Kanan {float:right;width:260px;}
+#Kanan h3 {color:rebeccapurple;font:Serif;}
+
+#Footer {clear:both;border-top:solid black 2px;padding-bottom:300px;}
+#Footer {font-family:Serif;}
+#Footer {text-align:centre;}
+#Footer {padding:5px;}
+#living {border:solid black 2px;}
+#living {background-size:200px}
+
+#wrapper  {width:900px;margin: 0px auto; background:white;}
+#wrapper2 {width:1200px;margin: 0px auto;width:950px;background:white}
+
+
+
+
+#Tajuk img {clear:both;
+            width:250px;
+	        border: solid black 1.5px;}
+            
+#Tajuk img {padding:10px;border:solid black 1.5px;margin-right:4px;}
+
+#Kanan  {float:right;width:290px;
+	    font-size:17px;
+	    text-justify:0px auto;}
+
+#Kanan h3{color:pink}
+
+#footer 
+        {clear:both;
+	    border-top:solid black 2px;
+        word-spacing:5px;
+        margin-bottom:10px;
+        padding:10px}
+
+#Tajuk {width:600px;}
+#Tajuk1 h1 {color:rebeccapurple; font:Serif;border-bottom:solid grey;}
+
+#ModernRoom {width:250px; border-top:solid #E228C4 10px; background-color:lightpink;margin-top: 10px;margin-right:10px;padding:15px;float:left;}
+
+#TraditionalRoom {width:250px; border-top:solid #C14DE7 10px; background-color:lightpink;margin-top: 10px;margin-right:10px;padding:15px;float:left;}
+
+#ContemporaryRoom {width:250px; border-top:solid #5C4BCB 10px; background-color:lightpink;margin-top: 10px;margin-right:10px;padding:15px;float:left;}
+
+#LivingRoom, #ContemporaryRoom, #TraditionalRoom {display: inline-block;margin-right:25px;vertical-align: top;}
+
+
+#footer p {text-align:center}
+
+#wrapper {background-color:white;width:900px; margin: 0px auto;padding-top: 10px; padding-bottom: 10px}
+#wrapper2 {background-color:white;width:1000px;margin:0px auto}

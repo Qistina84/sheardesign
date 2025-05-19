@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:lightpink}
+
+#Logo          {float:left; margin-bottom: 20px;}
+#Icon          {float:right;}
+#navigation    {clear:both;border-top:solid black 1px;
+	
+	border-bottom:solid black 1px;     
+	word-spacing: 35px;
+	margin-bottom:20px;
+	padding:10px}
+
+
+
+
+#Tajuk {float:left; width:500px;}
+#Tajuk h1 {color:rebeccapurple;font-family:Serif;}
+#Kanan {float:right;width:300px;}
+#footer {clear:both;}
+
+
+#wrapper {background-color:white;width:900px; margin: 0px auto;}
